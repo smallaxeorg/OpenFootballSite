@@ -1,0 +1,6 @@
+{
+  "name": "OpenStream · Football TV Cost Calculator & Open Rights Manifesto",
+  "description": "Calculate how much it truly costs to watch your club live, reveal the monopoly blackout paradox, and experience how open broadcast feeds empower creators and fans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
